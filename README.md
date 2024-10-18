@@ -1,14 +1,10 @@
-# 🌍 Address Search With React and Mapbox 🌍
-
-🚀 Welcome to my Address Search project! This repository is intended as a code backup for anyone following my [tutorial video](https://youtu.be/sxH5Qpd06uY).
+# 🌍 Geocoding React and Mapbox 🌍
 
 ![Address Search App Screenshot](/src/assets/addressSearch.png)
 
-This repository contains the full, finished project code. If you're interested in building this app from scratch, I recommend checking out my [tutorial video](https://youtu.be/sxH5Qpd06uY) for step-by-step instructions and insights into the development process.
-
 ## Overview 📜
 
-This project aims to help you:
+This project aims to
 
 - 💻 Implement address auto-complete functionality using Mapbox API.
 - 🔍 Fetch full address data.
@@ -24,4 +20,5 @@ To install all dependencies run `yarn` or `npm install`.
 
 To start the app run `yarn dev` or `npm run dev`.
 
-Happy coding!
+Cheers,
+Yohannes
